@@ -42,6 +42,5 @@ flowchart TD
 | `internal/persistence` | Адаптер tidwall/wal, JSON версии 1 и CRC32C, snapshot |
 | `cmd/demo` | Запускаемый пример  |
 
-- [ТЗ ЛР‑2](docs/lab2/spec.md), [планы этапов](docs/lab2/plans/README.md), [результаты этапов](docs/lab2/plans/progress.md).
 - [Контракты и диаграммы ЛР‑1](docs/lab1/interfaces.md), [реализации ЛР‑2](docs/lab2/interfaces.md).
 
