@@ -3,6 +3,7 @@ package model
 type ErrorCode string
 
 const (
+	ErrorInvalidArgument         ErrorCode = "INVALID_ARGUMENT"
 	ErrorCollectionNotFound      ErrorCode = "COLLECTION_NOT_FOUND"
 	ErrorCollectionAlreadyExists ErrorCode = "COLLECTION_ALREADY_EXISTS"
 	ErrorPointNotFound           ErrorCode = "POINT_NOT_FOUND"
